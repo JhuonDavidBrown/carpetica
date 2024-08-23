@@ -7,7 +7,7 @@ console.log("Lista de prioridades...");
 
 
 
-for(i=0;i<6;i++){
+for(i=0;i<10;i++){
 
     console.log("mirando funciones");
 }
